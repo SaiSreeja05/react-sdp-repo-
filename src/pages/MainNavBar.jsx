@@ -15,7 +15,7 @@ const MainNavBar = () => {
       <div className="navbar-container">
         <div className="navbar-logo">
           <Link to="/" className="logo-link">
-           K L Event Management System
+             Event Management System
           </Link>
         </div>
         <ul className="nav-menu">
@@ -76,3 +76,4 @@ const MainNavBar = () => {
 };
 
 export default MainNavBar;
+ 
